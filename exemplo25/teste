@@ -1,0 +1,15 @@
+
+#ifndef PONTO_H
+#define PONTO_H
+
+/* Define o apelido Ponto para a estrutura */
+typedef struct ponto Ponto;
+
+/* Declaração das funções que os outros arquivos vão enxergar */
+Ponto* cria (float x, float y);
+void libera (Ponto* p);
+void acessa (Ponto* p, float* x, float* y);
+void atribui (Ponto* p, float x, float y);
+float distancia (Ponto* p1, Ponto* p2);
+
+#endif
