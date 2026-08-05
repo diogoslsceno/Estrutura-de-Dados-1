@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1785851083 source:/home/diogo/Documentos/codes/codeC/exemplo7/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
