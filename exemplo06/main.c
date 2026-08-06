@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// 6.2. Cadeia de caracteres (strings) — declarações básicas de vetor de char: pp. 57-58
+
 int main(void){
     // 6.2. Cadeia de caracteres (strings)
 

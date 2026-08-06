@@ -1,4 +1,7 @@
 #include <stdio.h>
+
+// Primeira aula
+
 int main(void){
     int a;
     int *p;

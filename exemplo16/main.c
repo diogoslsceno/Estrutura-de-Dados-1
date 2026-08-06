@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// 7.5. Tipo uniao
+// 7.5. Tipo uniao: p. 76
 
 union exemplo{
     int i;

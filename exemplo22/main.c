@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Matriz representada por um vetor de ponteiros
+// 8.3. Matrizes dinâmicas - matriz representada por um vetor de ponteiros: p. 83
 
 int main(void){
     int m = 3, n = 4;

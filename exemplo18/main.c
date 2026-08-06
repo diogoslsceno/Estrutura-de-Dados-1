@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #define N 10
 
-// Alocacao estatica versus dinamica
+// 8.1. Alocação estática versus dinâmica: p. 79
 
 int main(void){
 

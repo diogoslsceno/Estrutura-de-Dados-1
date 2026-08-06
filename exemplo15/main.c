@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// 7.4 — Vetores de ponteiros para estruturas
+// 7.4 Vetores de ponteiros para estruturas(tabela de alunos): pp. 74-76
+
 struct aluno{
     char nome[81];
     int mat;

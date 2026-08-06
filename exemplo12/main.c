@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Passagem de estruturas para funcoes
+// Passagem de estruturas para funcoes: pp. 69-70
 
 /*
 void imprime(struct ponto pt) {

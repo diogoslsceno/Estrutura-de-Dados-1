@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
 #define MAX 50
+
+// 6.3. Vetor de cadeia de caracteres: pp. 65-67
 
 char* duplica (char* s)
 {

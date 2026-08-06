@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// 5.2. Alocação dinâmica: pp. 51-54
 
 int main(void){
 /*

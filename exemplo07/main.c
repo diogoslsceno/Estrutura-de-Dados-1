@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Exemplos de funções que manipulam cadeias de caracteres
+// Exemplos de funções que manipulam cadeias de caracteres: pp. 60-62
 
 int comprimento(char* s);
 void concatena(char* dest, char* orig);

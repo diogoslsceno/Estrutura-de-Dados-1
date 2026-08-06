@@ -3,6 +3,8 @@
 #include <math.h>
 #include "ponto.h"
 
+// 9.2. Tipo Abstrato de Dados — exemplo TAD Ponto (ponto.h, ponto.c, com distancia): pp. 92-94
+
 struct ponto{
     float x;
     float y;

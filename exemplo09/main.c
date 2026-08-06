@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Constante cadeia de caracteres*
+// Constante cadeia de caracteres: pp. 64-65
 
 int main(void){
     /*

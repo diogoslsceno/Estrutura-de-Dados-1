@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// 6.2. Funções recursivas: pp. 63-64
+
 int main(){
 void imprime_rec (char* s){
     if(s[0] != '\0'){

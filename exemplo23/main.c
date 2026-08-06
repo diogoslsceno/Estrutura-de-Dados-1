@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// 8.4. Representação de matrizes
-// matriz com vetor simples p. 84-86
+// 8.4. Representação de matrizes - matriz com vetor simples p. 84-86
 
 int main(){
 

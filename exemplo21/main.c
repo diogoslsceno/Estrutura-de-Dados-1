@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// 8.3 MAtrizes dinamicas - Matriz representada por um vetor simples
+// 8.3 Matrizes dinamicas - Matriz representada por um vetor simples: pp. 82-83
 
 int main(void){
     int m = 3, n = 4;

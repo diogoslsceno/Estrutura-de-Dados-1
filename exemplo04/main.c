@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include <math.h>
+
+// Primeira aula
+
 //Calculo da media
 //Crie duas funcoes.
 //Primeira: Para popular o vetor

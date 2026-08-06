@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// 8.2 Vetores bidimencionais
+// 8.2 Vetores bidimencionais - Declaracao e inicializacao de matriz estatica: pp. 80-81
 
 int main(void){
     float mat[2][3] = {{5.0, 10.0, 15.0},

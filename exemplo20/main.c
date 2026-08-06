@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Passagem de matrizes para funcoes + typedef Matrix4
+// 8.2. Passagem de matrizes para funções + typedef Matrix4: pp. 81-82
 
 void f1(float(*mat)[3]);
 void f2(float mat[][3]);

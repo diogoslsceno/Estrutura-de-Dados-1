@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// 7.1. O tipo estrutura
+// 7.1. O tipo estrutura (declaração básica de struct ponto): pp. 68-69
 
 struct ponto{
     float x;

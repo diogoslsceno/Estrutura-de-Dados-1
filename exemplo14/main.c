@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// 7.3. Vetores de estruturas
+// 7.3. Vetores de estrutura: p. 73
 
 typedef struct ponto {
     float x;

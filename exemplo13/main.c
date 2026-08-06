@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// 7.2 Definição de "novos" tipos
+// 7.2 Definição de "novos" tipos: pp. 71-72
 
 typedef float Real;
 typedef unsigned char UChar;
